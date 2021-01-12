@@ -13,7 +13,7 @@ def sezarın_kutusu():
     fark = x - len(a) #n*n matris olmadığında problem yaşamayalım diye
     print(fark)
     for k in range(0,fark):
-            a.append(" ")
+        a.append(" ")
     print(a)
     
     for i in range (0,round(sqrt(x))):
