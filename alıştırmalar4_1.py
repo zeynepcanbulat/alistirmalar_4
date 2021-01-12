@@ -1,4 +1,4 @@
-from math import sqrt
+from math import sqrt #kripto çözme kısmı eksik
 liste = []
 def sezarın_kutusu():
     string = input ("Cümleyi giriniz: ")
